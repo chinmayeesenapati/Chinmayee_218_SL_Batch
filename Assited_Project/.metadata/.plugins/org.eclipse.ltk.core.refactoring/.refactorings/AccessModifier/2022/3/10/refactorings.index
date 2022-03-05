@@ -1,0 +1,5 @@
+1646386449334	Extract local variable 'c'
+1646386455850	Convert local variable 'c' to field
+1646386465867	Extract constant 'C2'
+1646386748499	Extract method 'extracted'
+1646386762861	Extract method 'extracted'

@@ -1,0 +1,24 @@
+package com;
+
+class Excp_Handlers extends Exception{
+   String str1;
+   Excp_Handlers (String str2) {
+	str1=str2;
+   }
+   public String toString(){ 
+	return ("MyException Occurred: "+str1) ;
+   }
+}
+class Example1{
+   public static void main(String args[]){
+	try{
+		System.out.println("Starting of try block");
+		// I'm throwing the custom exception using throw
+		throw new Excp_Handlers ("This is My error Message");
+	}
+	catch(Excp_Handlers exp){
+		System.out.println("Catch Block") ;
+		System.out.println(exp) ;
+	}
+   }
+}

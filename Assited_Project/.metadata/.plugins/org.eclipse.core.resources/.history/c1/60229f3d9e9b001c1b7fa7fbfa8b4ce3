@@ -1,0 +1,54 @@
+package com;
+
+public class AccessModifier{
+
+		public static void main(String[] args) {
+			// Unary operator
+			int a = 10;
+			System.out.println(a++);
+			System.out.println(a--);
+			System.out.println(a);
+
+			// Arithmetic operators _+, - * / %
+			int b = 12;
+			System.out.println(a+b);
+			System.out.println(2 % 2);
+
+
+			// Relational operatos <, > <= >=
+			System.out.println(7<10);
+
+			// Equality operators == and !=
+			System.out.println(68 != 10);
+
+			//Logical operators && and ||
+			System.out.println(true && true);
+			System.out.println(false && true);
+			System.out.println(1==1 && 1==2);
+
+			System.out.println(1==1 || 1==2);
+
+			//Shift operators	<< >> 
+			// a<<b		
+			// 0	0	0	0	0	0	0	1
+			// 0	0	0	0	0	1	0	0
+			// a * (2^b) == 10 * (8)  80
+			System.out.println(60 << 1);
+			System.out.println(60 << 2);
+			System.out.println(60 << 3);
+
+			// a>>b - Right shift operators
+			// a/ (2^b)
+			// 20/2 == 10
+			// 10/2 = 5
+			// 5/ 2 = 2
+			System.out.println(70 >> 1);
+			System.out.println(50 >> 3);
+
+			// Ternary operator (Condition) ? Y : F
+			System.out.println(  (1==1) ? 5 : 2  );
+
+		}
+
+	
+	}
