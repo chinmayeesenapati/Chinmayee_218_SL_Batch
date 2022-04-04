@@ -1,0 +1,15 @@
+INDEX VERSION 1.131
+C:\Users\HP\OneDrive\Desktop\Phase2 _ASSISTED_Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3278660794.index
+\SimpleJSPproject\src\main\java
+C:\Users\HP\OneDrive\Desktop\Phase2 _ASSISTED_Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2724530648.index
+\JSPactionTags\src\main\java
+C:\Users\HP\OneDrive\Desktop\Phase2 _ASSISTED_Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3028119033.index
+\JSPimplicitObject\src\main\java
+C:\Users\HP\OneDrive\Desktop\Phase2 _ASSISTED_Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\480949560.index
+\JSPdirectives\src\main\java
+C:\Users\HP\OneDrive\Desktop\Phase2 _ASSISTED_Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3317403971.index
+\SessionHandling\src\main\java
+C:\Users\HP\OneDrive\Desktop\Phase2 _ASSISTED_Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3634449461.index
+\Product_Details_Portal\src\main\java
+C:\Users\HP\OneDrive\Desktop\Phase2 _ASSISTED_Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\461509795.index
+\HibernateWithSpring\src\main\java

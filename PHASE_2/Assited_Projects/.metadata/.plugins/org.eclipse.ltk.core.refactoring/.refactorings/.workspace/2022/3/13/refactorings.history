@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Insert_update_delete_of_database_records&apos;" deleteContents="false" description="Delete resource &apos;Insert_update_delete_of_database_records&apos;" element1="/Insert_update_delete_of_database_records" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1647943114458"/>
+</session>

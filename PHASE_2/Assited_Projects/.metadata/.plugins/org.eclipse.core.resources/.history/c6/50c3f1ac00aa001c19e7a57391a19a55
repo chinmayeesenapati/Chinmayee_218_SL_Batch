@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Configuration_of_Hibernate">
+        <property name="context-root" value="Configuration_of_Hibernate"/>
+    </wb-module>
+</project-modules>

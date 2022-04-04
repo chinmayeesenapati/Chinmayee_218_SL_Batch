@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="ValidationOfUserID">
+        <property name="context-root" value="ValidationOfUserID"/>
+        <property name="java-output-path" value="/ValidationOfUserID/build/classes"/>
+    </wb-module>
+</project-modules>
